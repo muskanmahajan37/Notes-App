@@ -1,2 +1,2 @@
-# Notes-App
-A simple Node.js Application
+# Notes App
+### A simple Node.js Application
